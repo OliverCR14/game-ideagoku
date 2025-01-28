@@ -1,18 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="?0aCAc{/|}=nLG5+_X]+">Player</variable><variable type="KIND_SpriteKind" id="E,99}Teh+0(*;SKb/j/N">Projectile</variable><variable type="KIND_SpriteKind" id="M;|E~E2~t/M`mdyyacU)">Food</variable><variable type="KIND_SpriteKind" id="Op@Nj064x_0r.Lx:;yhh">Enemy</variable><variable id="!b?6OFZ4}7}5]!Y!/`C,">Goku</variable><variable id="0/n7%wEAX^{G?Xwd=s-p">sonic</variable><variable id="ogt6LR/Gs@}PZ9#P@#SP">Mario</variable><variable id="G$o~mhZRI7YgkP@iQtk6">mySprite20250121T165841985Z</variable><variable id="!{BB[RC6?WECcj!8%OM[">mySprite</variable></variables><block type="pxt-on-start" id="F5a#zxnn)|wR1ms1HZ]o" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="D,U#CcAM)1]3BbfJPx{O"><field name="VAR" id="!b?6OFZ4}7}5]!Y!/`C,">Goku</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="ecm{|PYx)KS|LODRjP4="><value name="img"><shadow type="screen_image_picker" id="Dbf#QEvl?8dPRvuec9[G"><field name="img">assets.image`goku`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="QOTlVr=,V;0H}Nn+Vi#K"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="variables_set" id="j}R2i4DZ3_0?g+gu(B-_"><field name="VAR" id="!{BB[RC6?WECcj!8%OM[">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="@n+pErmpVMU2Yj@V^QGg"><value name="img"><shadow type="screen_image_picker" id=",I@:cD{0#7rzNte-,|uc"><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":",I@:cD{0#7rzNte-,|uc"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="@`4qxE;qYCk)XIRjxthy"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="?0aCAc{/|}=nLG5+_X]+">Player</variable><variable type="KIND_SpriteKind" id="E,99}Teh+0(*;SKb/j/N">Projectile</variable><variable type="KIND_SpriteKind" id="M;|E~E2~t/M`mdyyacU)">Food</variable><variable type="KIND_SpriteKind" id="Op@Nj064x_0r.Lx:;yhh">Enemy</variable><variable id="!b?6OFZ4}7}5]!Y!/`C,">Goku</variable><variable id="0/n7%wEAX^{G?Xwd=s-p">sonic</variable><variable id="ogt6LR/Gs@}PZ9#P@#SP">Mario</variable><variable id="G$o~mhZRI7YgkP@iQtk6">mySprite20250121T165841985Z</variable><variable id="!{BB[RC6?WECcj!8%OM[">mySprite</variable></variables><block type="pxt-on-start" id="F5a#zxnn)|wR1ms1HZ]o" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="D,U#CcAM)1]3BbfJPx{O"><field name="VAR" id="!b?6OFZ4}7}5]!Y!/`C,">Goku</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="ecm{|PYx)KS|LODRjP4="><value name="img"><shadow type="screen_image_picker" id="Dbf#QEvl?8dPRvuec9[G"><field name="img">assets.image`goku`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="QOTlVr=,V;0H}Nn+Vi#K"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
